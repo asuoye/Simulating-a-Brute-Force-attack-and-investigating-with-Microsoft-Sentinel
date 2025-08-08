@@ -1,0 +1,1 @@
+# Simulating-a-Brute-Force-attack-and-investigating-with-Microsoft-Sentinel
