@@ -49,7 +49,7 @@ This project involves creating a controlled lab environment to simulate a brute-
 
 <h2>Documentation Link:</h2>
 
-<b>(https://brief-foam-edd.notion.site/How-to-Setup-a-Basic-Home-Lab-running-Active-Directory-Oracle-Virtual-Box-and-add-users-with-Power-1f18ff75bed3806dace7da8790652394?source=copy_link))</b>
+(https://brief-foam-edd.notion.site/Simulating-a-Brute-Force-attack-and-investigating-with-Microsoft-Sentinel-1e38ff75bed38019beb4f29b9bf0dbf5?source=copy_link)
 
 
 <!--
